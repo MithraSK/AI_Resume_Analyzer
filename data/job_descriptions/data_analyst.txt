@@ -1,0 +1,16 @@
+We are hiring a Data Analyst who can work with cross-functional teams to drive data-driven decision-making.
+
+Responsibilities:
+- Analyze large volumes of structured and unstructured data
+- Build reports and dashboards using BI tools
+- Provide insights using statistical techniques
+
+Requirements:
+- Strong knowledge of Python and SQL
+- Experience with libraries like Pandas, NumPy, and Matplotlib
+- Familiarity with tools like Power BI or Tableau
+- Excellent analytical and communication skills
+
+Preferred:
+- Experience with machine learning basics
+- Knowledge of version control (Git)
