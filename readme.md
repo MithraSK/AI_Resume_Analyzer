@@ -16,30 +16,30 @@ AI_Resume_Analyzer/
 
 ├── app/
 
-│ ├── app.py # Streamlit frontend
+│ ├── app.py 
 
-│ └── utils.py # File handling
+│ └── utils.py 
 
 │
 
 ├── src/
 
-│ ├── extract_text.py # PDF/DOCX text extractor
+│ ├── extract_text.py 
 
-│ ├── keyword_matcher.py # Keyword matching logic
+│ ├── keyword_matcher.py 
 
-│ ├── resume_score.py # Resume scoring
+│ ├── resume_score.py 
 
-│ └── section_parser.py # Section extraction (skills, education, etc.)
+│ └── section_parser.py 
 
 │
 
 
 ├── data/
 
-│ ├── sample_resumes/ # Test resumes
+│ ├── sample_resumes/ 
 
-│ └── job_descriptions/ # Sample job descriptions
+│ └── job_descriptions/ 
 
 │
 
